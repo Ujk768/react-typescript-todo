@@ -1,0 +1,19 @@
+.todos_single{
+    display: flex;
+    background-color: brown;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    padding: 2%;
+   width: 15%;
+   font-size: large;
+}
+
+.icon-wrapper{
+    display: flex;
+
+}
+.icon{
+    margin: 0 8%;
+    font-size: large;
+}
