@@ -1,0 +1,13 @@
+.App{
+  background-color: lightseagreen;
+  width: 100vw;
+  height: 100vh;
+}
+.heading-wrapper{
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: larger;
+  padding: 2%;
+}
+
